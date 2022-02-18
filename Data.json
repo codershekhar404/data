@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "title": "A.I.SHA",
+    "imgSrc": "../img/aisha.jpg",
+    "link": "https://www.mxplayer.in/show/watch-aisha-my-virtual-girlfriend-series-online-f585732b0d0c5d14696421fc050a9f99",
+    "category": "Action, Sci-Fi"
+  },
+  {
+    "id": 2,
+    "title": "Aashram",
+    "imgSrc": "../img/aashram.jpg",
+    "link": "https://www.mxplayer.in/show/watch-aashram-series-online-d1924002234d9096126aaee2ff997632",
+    "category": "Crime, Thriller"
+  },
+  {
+    "id": 3,
+    "title": "Asur",
+    "imgSrc": "../img/asur.jpg",
+    "link": "https://www.voot.com/shows/asur-season-01-episode-01/1/922885/the-dead-can-talk/922976?&utm_source=google_web&utm_medium=search_google&utm_campaign=c_website_search_voot_select_asur_web_performance&gclid=CjwKCAiAl-6PBhBCEiwAc2GOVIiggfMrXD1iQPqoN9pOtd5wyv92nxnNGf7KzSrDTVe2z_endWQYChoCX2sQAvD_BwE&gclsrc=aw.ds",
+    "category": "Thriller, Mithological"
+  },
+  {
+    "id": 4,
+    "title": "College Romance",
+    "imgSrc": "../img/clgromance.jpg",
+    "link": "https://tvfplay.com/show/college-romance/324",
+    "category": "Romantic, Drama"
+  },
+  {
+    "id": 5,
+    "title": "Dhindora",
+    "imgSrc": "../img/dhindora.jpg",
+    "link": "https://www.youtube.com/watch?v=Y_2y4y0kQig",
+    "category": "Comedy, Drama"
+  },
+  {
+    "id": 6,
+    "title": "Flames",
+    "imgSrc": "../img/flames.jpg",
+    "link": "https://www.mxplayer.in/show/watch-flames/season-1/pehla-nasha-online-febedce3b186dad65d6498dbe2c7ad55",
+    "category": "Romantic, Drama"
+  },
+  {
+    "id": 7,
+    "title": "Gullak",
+    "imgSrc": "../img/gullak.jpg",
+    "link": "https://tvfplay.com/show/tvfs-gullak/627",
+    "category": "Comedy, Drama"
+  },
+  {
+    "id": 8,
+    "title": "I'mmature",
+    "imgSrc": "../img/immature.jpg",
+    "link": "https://www.mxplayer.in/show/watch-immature/season-1/daddys-little-princess-online-654144921e3f28c9aa281bbf3b0b2727?utm_source=paid-ext-con-perf-google_sem-web&utm_medium=web&utm_campaign=sem-web-270921-traffic-nbr-web_series-mix-Master-mix-ext_paid-na-both-pan-originals-mxo-groupm-sng-exact&utm_cid=127183740869&gclid=CjwKCAiAl-6PBhBCEiwAc2GOVOLQhri0EJwd6UcEGF5oEXuejtHRMIx58mrqOwEoIiREm5gGZqWJMBoCTzsQAvD_BwE",
+    "category": "Comedy, Drama"
+  },
+  {
+    "id": 9,
+    "title": "Kota Factory",
+    "imgSrc": "../img/kotafactory.jpg",
+    "link": "https://tvfplay.com/show/tvfs-kota-factory/588",
+    "category": "Educational"
+  },
+  {
+    "id": 10,
+    "title": "Mirzapur",
+    "imgSrc": "../img/mirzapur.jpg",
+    "link": "https://www.amazon.com/Mirzapur-Season-1/dp/B086VXR733",
+    "category": "Action"
+  },
+  {
+    "id": 11,
+    "title": "Madhuri Talkies",
+    "imgSrc": "../img/madhuritalkies.jpg",
+    "link": "https://www.mxplayer.in/show/watch-madhuri-talkies-series-online-c8f020e263cb5e5bf056b41741bbde6f?&utm_source=paid-ext-con-perf-google_sem-web&utm_medium=web&utm_campaign=sem-web-280921-traffic-DSA-tv_show-Mix-Non_voot-Mix-ext_paid-na-na-pan-na-na-groupm_sng&utm_cid=129062192338&gclid=CjwKCAiAl-6PBhBCEiwAc2GOVD0k4808I3RJ3qMppKAei2e6aVZC6GCIPDw3pbWrhKQysLmOvukSjBoCK6EQAvD_BwE",
+    "category": "Crime, Thriller"
+  },
+  {
+    "id": 12,
+    "title": "Money Heist",
+    "imgSrc": "../img/moneyheist.jpg",
+    "link": "https://www.netflix.com/in/title/80192098",
+    "category": "Thriller, Crime"
+  },
+  {
+    "id": 13,
+    "title": "Ok Computer",
+    "imgSrc": "../img/okcomputer.jpg",
+    "link": "https://www.hotstar.com/in/tv/ok-computer/1260055914",
+    "category": "Comedy"
+  },
+  {
+    "id": 14,
+    "title": "Panchayat",
+    "imgSrc": "../img/panchayat.jpg",
+    "link": "https://www.primevideo.com/detail/0KEP4A6DWRKFYQFTSU5RXHEAN2/?ref_=dvm_pds_gen_in_as_s_g_dsafeedn_mkw_s-dc&mrntrk=pcrid_580242550680_slid__pgrid_120279910526_pgeo_1007751_x_184996577992_ptid_dsa-1249728551206",
+    "category": "Comedy, Drama"
+  },
+  {
+    "id": 15,
+    "title": "Sacred Games",
+    "imgSrc": "../img/sacredGames.jpg",
+    "link": "https://www.netflix.com/in/title/80115328",
+    "category": "Thriller, Mithological"
+  },
+  {
+    "id": 16,
+    "title": "Samaantar",
+    "imgSrc": "../img/samaantar.jpeg",
+    "link": "https://www.mxplayer.in/show/watch-samantar-hindi-series-online-69b71e25779c1f039972b49bc6771674",
+    "category": "Thriller, Mystery"
+  },
+  {
+    "id": 17,
+    "title": "Scam 1992",
+    "imgSrc": "../img/scam.jpg",
+    "link": "https://www.sonyliv.com/shows/scam-1992-the-harshad-mehta-story-1700000292",
+    "category": "Biography, Crime, Drama"
+  },
+  {
+    "id": 18,
+    "title": "Tandav",
+    "imgSrc": "../img/tandav.jpg",
+    "link": "https://www.primevideo.com/detail/0TIXTH4G4FJBGABFDCLUEF1OU7/?ref_=dvm_pds_gen_in_as_s_g_dsafeedn_mkw_s-dc&mrntrk=pcrid_580242550680_slid__pgrid_120279910526_pgeo_1007751_x_184996578034_ptid_dsa-1249728551206",
+    "category": "Drama, Political"
+  },
+  {
+    "id": 19,
+    "title": "The Family Man",
+    "imgSrc": "../img/familyman.jpeg",
+    "link": "https://www.primevideo.com/detail/0S3QYI59BAEI5KVLHCKSR91YGD/_mkw_s-dc&mrntrk:pcrid_452516200052_slid__pgrid_105713381899_pgeo_9061712_x_129940998600_ptid_dsa-932982753595",
+    "category": "Action, Comedy"
+  },
+  {
+    "id": 20,
+    "title": "Tvf Aspirants",
+    "imgSrc": "../img/aspirants.jpg",
+    "link": "https://youtube.com/playlist?list=PLTB0eCoUXErY_KvRNKOERQtYSDPjOb8jw",
+    "category": "Inspirational"
+  },
+  {
+    "id": 21,
+    "title": "Tvf Pitchers",
+    "imgSrc": "../img/pitchers.jpg",
+    "link": "https://www.mxplayer.in/show/watch-tvf-pitchers/season-1/tu-beer-hai-online-d4f658b90abc829b604c090f7efea580?utm_source=paid-ext-con-perf-google_sem-web&utm_medium=web&utm_campaign=sem-web-280921-traffic-nbr-web_series-Mix-Non_MXO-Mix-ext_paid-na-na-pan-na-na-groupm_sng-exact&utm_cid=129405343860&gclid=CjwKCAiAl-6PBhBCEiwAc2GOVMFuq-Q_eEdwxoKHYOHRKeHDWN4aHvx9KVje-6hsoh2A0fVu7dBsKRoC2JQQAvD_BwE",
+    "category": "Comedy, Drama"
+  },
+  {
+    "id": 22,
+    "title": "Yeh Kaali Kaali Aankhen",
+    "imgSrc": "../img/ykka.jpg",
+    "link": "https://www.netflix.com/in/title/81173113",
+    "category": "Crime, Mystery"
+  },
+  {
+    "id": 23,
+    "title": "Yeh Meri Family",
+    "imgSrc": "../img/ymf.jpg",
+    "link": "https://tvfplay.com/show/yeh-meri-family/302",
+    "category": "Family, Emotional"
+  }
+]
