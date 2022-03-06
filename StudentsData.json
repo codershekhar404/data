@@ -1,72 +1,72 @@
 [
   {
     "id": 1,
-    "Name": "Rohan",
-    "Email-Id": "rohan@gmail.com",
-    "Mobile-No": "12345678901",
+    "name": "Rohan",
+    "emailId": "rohan@gmail.com",
+    "mobileNo": "12345678901",
     "photo": "https://source.unsplash.com/featured?user"
   },
   {
     "id": 2,
-    "Name": "Rahul",
-    "Email-Id": "rahul@gmail.com",
-    "Mobile-No": "12345678901",
+    "name": "Rahul",
+    "emailId": "rahul@gmail.com",
+    "mobileNo": "12345678901",
     "photo": "https://source.unsplash.com/featured?user"
   },
   {
     "id": 3,
-    "Name": "Amit",
-    "Email-Id": "amit@gmail.com",
-    "Mobile-No": "12345678901",
+    "name": "Amit",
+    "emailId": "amit@gmail.com",
+    "mobileNo": "12345678901",
     "photo": "https://source.unsplash.com/featured?user"
   },
   {
     "id": 4,
-    "Name": "Deepak",
-    "Email-Id": "deepak@gmail.com",
-    "Mobile-No": "12345678901",
+    "name": "Deepak",
+    "emailId": "deepak@gmail.com",
+    "mobileNo": "12345678901",
     "photo": "https://source.unsplash.com/featured?user"
   },
   {
     "id": 5,
-    "Name": "Nikita",
-    "Email-Id": "nikita@gmail.com",
-    "Mobile-No": "12345678901",
+    "name": "Nikita",
+    "emailId": "nikita@gmail.com",
+    "mobileNo": "12345678901",
     "photo": "https://source.unsplash.com/featured?user"
   },
   {
     "id": 6,
-    "Name": "Neha",
-    "Email-Id": "neha@gmail.com",
-    "Mobile-No": "12345678901",
+    "name": "Neha",
+    "emailId": "neha@gmail.com",
+    "mobileNo": "12345678901",
     "photo": "https://source.unsplash.com/featured?user"
   },
   {
     "id": 7,
-    "Name": "Mohit",
-    "Email-Id": "mohit@gmail.com",
-    "Mobile-No": "12345678901",
+    "name": "Mohit",
+    "emailId": "mohit@gmail.com",
+    "mobileNo": "12345678901",
     "photo": "https://source.unsplash.com/featured?user"
   },
   {
     "id": 8,
-    "Name": "Mohan",
-    "Email-Id": "mohan@gmail.com",
-    "Mobile-No": "12345678901",
+    "name": "Mohan",
+    "emailId": "mohan@gmail.com",
+    "mobileNo": "12345678901",
     "photo": "https://source.unsplash.com/featured?user"
   },
   {
     "id": 9,
-    "Name": "Mukesh",
-    "Email-Id": "mukesh@gmail.com",
-    "Mobile-No": "12345678901",
+    "name": "Mukesh",
+    "emailId": "mukesh@gmail.com",
+    "mobileNo": "12345678901",
     "photo": "https://source.unsplash.com/featured?user"
   },
   {
     "id": 10,
-    "Name": "Madhu",
-    "Email-Id": "madhu@gmail.com",
-    "Mobile-No": "12345678901",
+    "name": "Madhu",
+    "emailId": "madhu@gmail.com",
+    "mobileNo": "12345678901",
     "photo": "https://source.unsplash.com/featured?user"
   }
 ]
